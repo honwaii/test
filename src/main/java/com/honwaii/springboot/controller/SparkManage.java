@@ -23,4 +23,7 @@ public class SparkManage {
         return "success";
     }
 
+    public void test() {
+        System.out.println("hahah..");
+    }
 }
